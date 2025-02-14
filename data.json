@@ -1,1202 +1,794 @@
 [
   {
-    "student_id": "1",
-    "name": "Alice Johnson",
-    "marks": {
-      "math": 85,
-      "science": 90,
-      "english": 78,
-      "history": 88,
-      "geography": 92
-    },
-    "total": 433
-  },
-  {
-    "student_id": "2",
-    "name": "Bob Smith",
-    "marks": {
-      "math": 70,
-      "science": 65,
-      "english": 80,
-      "history": 75,
-      "geography": 85
-    },
-    "total": 375
-  },
-  {
-    "student_id": "3",
-    "name": "Charlie Davis",
-    "marks": {
-      "math": 88,
-      "science": 82,
-      "english": 89,
-      "history": 90,
-      "geography": 66
-    },
-    "total": 415
-  },
-  {
-    "student_id": "4",
-    "name": "Diana Lee",
-    "marks": {
-      "math": 95,
-      "science": 94,
-      "english": 93,
-      "history": 92,
-      "geography": 91
-    },
-    "total": 465
-  },
-  {
-    "student_id": "5",
-    "name": "Edward Thomas",
-    "marks": {
-      "math": 50,
-      "science": 60,
-      "english": 70,
-      "history": 80,
-      "geography": 90
-    },
-    "total": 350
-  },
-  {
-    "student_id": "6",
-    "name": "Fiona Green",
-    "marks": {
-      "math": 77,
-      "science": 88,
-      "english": 99,
-      "history": 66,
-      "geography": 55
-    },
-    "total": 385
-  },
-  {
-    "student_id": "7",
-    "name": "George White",
-    "marks": {
-      "math": 92,
-      "science": 85,
-      "english": 87,
-      "history": 88,
-      "geography": 91
-    },
-    "total": 443
-  },
-  {
-    "student_id": "8",
-    "name": "Hannah Black",
-    "marks": {
-      "math": 61,
-      "science": 72,
-      "english": 83,
-      "history": 94,
-      "geography": 55
-    },
-    "total": 365
-  },
-  {
-    "student_id": "9",
-    "name": "Ian Brown",
-    "marks": {
-      "math": 80,
-      "science": 78,
-      "english": 81,
-      "history": 82,
-      "geography": 83
-    },
-    "total": 404
-  },
-  {
-    "student_id": "10",
-    "name": "Jane Miller",
-    "marks": {
-      "math": 90,
-      "science": 91,
-      "english": 92,
-      "history": 93,
-      "geography": 94
-    },
-    "total": 460
-  },
-  {
-    "student_id": "11",
-    "name": "Kyle Moore",
-    "marks": {
-      "math": 50,
-      "science": 55,
-      "english": 60,
-      "history": 65,
-      "geography": 70
-    },
-    "total": 300
-  },
-  {
-    "student_id": "12",
-    "name": "Laura Wilson",
-    "marks": {
-      "math": 75,
-      "science": 85,
-      "english": 95,
-      "history": 65,
-      "geography": 55
-    },
-    "total": 375
-  },
-  {
-    "student_id": "13",
-    "name": "Mark Harris",
-    "marks": {
-      "math": 88,
-      "science": 77,
-      "english": 66,
-      "history": 55,
-      "geography": 44
-    },
-    "total": 330
-  },
-  {
-    "student_id": "14",
-    "name": "Nancy Clark",
-    "marks": {
-      "math": 95,
-      "science": 94,
-      "english": 93,
-      "history": 92,
-      "geography": 91
-    },
-    "total": 465
-  },
-  {
-    "student_id": "15",
-    "name": "Oliver Walker",
-    "marks": {
-      "math": 85,
-      "science": 82,
-      "english": 79,
-      "history": 88,
-      "geography": 91
-    },
-    "total": 425
-  },
-  {
-    "student_id": "16",
-    "name": "Paula Young",
-    "marks": {
-      "math": 61,
-      "science": 72,
-      "english": 83,
-      "history": 94,
-      "geography": 65
-    },
-    "total": 375
-  },
-  {
-    "student_id": "17",
-    "name": "Quinn Adams",
-    "marks": {
-      "math": 90,
-      "science": 85,
-      "english": 87,
-      "history": 88,
-      "geography": 91
-    },
-    "total": 441
-  },
-  {
-    "student_id": "18",
-    "name": "Rachel Allen",
-    "marks": {
-      "math": 50,
-      "science": 60,
-      "english": 70,
-      "history": 80,
-      "geography": 90
-    },
-    "total": 350
-  },
-  {
-    "student_id": "19",
-    "name": "Sam Carter",
-    "marks": {
-      "math": 77,
-      "science": 88,
-      "english": 99,
-      "history": 66,
-      "geography": 55
-    },
-    "total": 385
-  },
-  {
-    "student_id": "20",
-    "name": "Tina Garcia",
-    "marks": {
-      "math": 95,
-      "science": 92,
-      "english": 90,
-      "history": 91,
-      "geography": 94
-    },
-    "total": 462
-  },
-  {
-    "student_id": "21",
-    "name": "Uma Sanchez",
-    "marks": {
-      "math": 50,
-      "science": 51,
-      "english": 52,
-      "history": 53,
-      "geography": 54
-    },
-    "total": 260
-  },
-  {
-    "student_id": "22",
-    "name": "Victor King",
-    "marks": {
-      "math": 65,
-      "science": 70,
-      "english": 75,
-      "history": 80,
-      "geography": 85
-    },
-    "total": 375
-  },
-  {
-    "student_id": "23",
-    "name": "Wendy Scott",
-    "marks": {
-      "math": 88,
-      "science": 89,
-      "english": 90,
-      "history": 91,
-      "geography": 92
-    },
-    "total": 450
-  },
-  {
-    "student_id": "24",
-    "name": "Xavier Bell",
-    "marks": {
-      "math": 40,
-      "science": 45,
-      "english": 50,
-      "history": 55,
-      "geography": 60
-    },
-    "total": 250
-  },
-  {
-    "student_id": "25",
-    "name": "Yvonne Perez",
-    "marks": {
-      "math": 82,
-      "science": 81,
-      "english": 83,
-      "history": 84,
-      "geography": 85
-    },
-    "total": 415
-  },
-  {
-    "student_id": "26",
-    "name": "Zachary Lopez",
-    "marks": {
-      "math": 75,
-      "science": 80,
-      "english": 85,
-      "history": 70,
-      "geography": 60
-    },
-    "total": 370
-  },
-  {
-    "student_id": "27",
-    "name": "Aaron Brooks",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 85,
-      "geography": 84
-    },
-    "total": 439
-  },
-  {
-    "student_id": "28",
-    "name": "Bianca Martinez",
-    "marks": {
-      "math": 65,
-      "science": 70,
-      "english": 75,
-      "history": 80,
-      "geography": 85
-    },
-    "total": 375
-  },
-  {
-    "student_id": "29",
-    "name": "Carlos Rivera",
-    "marks": {
-      "math": 92,
-      "science": 91,
-      "english": 93,
-      "history": 88,
-      "geography": 90
-    },
-    "total": 454
-  },
-  {
-    "student_id": "30",
-    "name": "Danielle Morgan",
-    "marks": {
-      "math": 58,
-      "science": 65,
-      "english": 72,
-      "history": 79,
-      "geography": 86
-    },
-    "total": 360
-  },
-  {
-    "student_id": "31",
-    "name": "Ethan Reed",
-    "marks": {
-      "math": 70,
-      "science": 75,
-      "english": 80,
-      "history": 85,
-      "geography": 90
-    },
-    "total": 400
-  },
-  {
-    "student_id": "32",
-    "name": "Felicity Ross",
-    "marks": {
-      "math": 88,
-      "science": 84,
-      "english": 80,
-      "history": 76,
-      "geography": 72
-    },
-    "total": 400
-  },
-  {
-    "student_id": "33",
-    "name": "Gavin Clark",
-    "marks": {
-      "math": 95,
-      "science": 94,
-      "english": 93,
-      "history": 92,
-      "geography": 91
-    },
-    "total": 465
-  },
-  {
-    "student_id": "34",
-    "name": "Holly Edwards",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 88,
-      "geography": 80
-    },
-    "total": 414
-  },
-  {
-    "student_id": "35",
-    "name": "Isaac Bennett",
-    "marks": {
-      "math": 62,
-      "science": 68,
-      "english": 74,
-      "history": 80,
-      "geography": 86
-    },
-    "total": 370
-  },
-  {
-    "student_id": "36",
-    "name": "Jasmine Phillips",
-    "marks": {
-      "math": 88,
-      "science": 84,
-      "english": 80,
-      "history": 76,
-      "geography": 72
-    },
-    "total": 400
-  },
-  {
-    "student_id": "37",
-    "name": "Kevin Bailey",
-    "marks": {
-      "math": 92,
-      "science": 93,
-      "english": 94,
-      "history": 95,
-      "geography": 96
-    },
-    "total": 470
-  },
-  {
-    "student_id": "38",
-    "name": "Luna Foster",
-    "marks": {
-      "math": 65,
-      "science": 70,
-      "english": 75,
-      "history": 80,
-      "geography": 85
-    },
-    "total": 375
-  },
-  {
-    "student_id": "39",
-    "name": "Mason Gray",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "40",
-    "name": "Nina Carter",
-    "marks": {
-      "math": 90,
-      "science": 88,
-      "english": 86,
-      "history": 84,
-      "geography": 82
-    },
-    "total": 430
-  },
-  {
-    "student_id": "41",
-    "name": "Omar Hughes",
-    "marks": {
-      "math": 88,
-      "science": 80,
-      "english": 72,
-      "history": 64,
-      "geography": 56
-    },
-    "total": 360
-  },
-  {
-    "student_id": "42",
-    "name": "Penny Collins",
-    "marks": {
-      "math": 95,
-      "science": 92,
-      "english": 89,
-      "history": 86,
-      "geography": 83
-    },
-    "total": 445
-  },
-  {
-    "student_id": "43",
-    "name": "Quincy Bryant",
-    "marks": {
-      "math": 70,
-      "science": 75,
-      "english": 80,
-      "history": 85,
-      "geography": 90
-    },
-    "total": 400
-  },
-  {
-    "student_id": "44",
-    "name": "Rachel Sanders",
-    "marks": {
-      "math": 82,
-      "science": 84,
-      "english": 86,
-      "history": 88,
-      "geography": 90
-    },
-    "total": 430
-  },
-  {
-    "student_id": "45",
-    "name": "Samuel Price",
-    "marks": {
-      "math": 90,
-      "science": 85,
-      "english": 80,
-      "history": 75,
-      "geography": 70
-    },
-    "total": 400
-  },
-  {
-    "student_id": "46",
-    "name": "Tiffany Russell",
-    "marks": {
-      "math": 65,
-      "science": 70,
-      "english": 75,
-      "history": 80,
-      "geography": 85
-    },
-    "total": 375
-  },
-  {
-    "student_id": "47",
-    "name": "Ulysses Walker",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
-  },
-  {
-    "student_id": "48",
-    "name": "Victoria Hall",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "49",
-    "name": "Wesley Butler",
-    "marks": {
-      "math": 92,
-      "science": 88,
-      "english": 84,
-      "history": 80,
-      "geography": 76
-    },
-    "total": 420
-  },
-  {
-    "student_id": "50",
-    "name": "Xena Bell",
-    "marks": {
-      "math": 75,
-      "science": 80,
-      "english": 85,
-      "history": 90,
-      "geography": 95
-    },
-    "total": 425
-  },
-  {
-    "student_id": "51",
-    "name": "Yusuf Barnes",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 85,
-      "history": 89,
-      "geography": 92
-    },
-    "total": 426
-  },
-  {
-    "student_id": "52",
-    "name": "Zara Evans",
-    "marks": {
-      "math": 85,
-      "science": 88,
-      "english": 91,
-      "history": 84,
-      "geography": 87
-    },
-    "total": 435
-  },
-  {
-    "student_id": "53",
-    "name": "Alan Fisher",
-    "marks": {
-      "math": 62,
-      "science": 66,
-      "english": 70,
-      "history": 74,
-      "geography": 78
-    },
-    "total": 350
-  },
-  {
-    "student_id": "54",
-    "name": "Bella Gill",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 89,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "55",
-    "name": "Cameron Hayes",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "56",
-    "name": "Dana Hughes",
-    "marks": {
-      "math": 60,
-      "science": 65,
-      "english": 70,
-      "history": 75,
-      "geography": 80
-    },
-    "total": 350
-  },
-  {
-    "student_id": "57",
-    "name": "Eli Jackson",
-    "marks": {
-      "math": 85,
-      "science": 83,
-      "english": 81,
-      "history": 79,
-      "geography": 77
-    },
-    "total": 405
-  },
-  {
-    "student_id": "58",
-    "name": "Faye Kelly",
-    "marks": {
-      "math": 89,
-      "science": 92,
-      "english": 94,
-      "history": 96,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "59",
-    "name": "Glen Lewis",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "60",
-    "name": "Holly Martinez",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "61",
-    "name": "Isaac Morgan",
-    "marks": {
-      "math": 90,
-      "science": 88,
-      "english": 86,
-      "history": 84,
-      "geography": 82
-    },
-    "total": 430
-  },
-  {
-    "student_id": "62",
-    "name": "Julia Nelson",
-    "marks": {
-      "math": 62,
-      "science": 68,
-      "english": 74,
-      "history": 80,
-      "geography": 86
-    },
-    "total": 370
-  },
-  {
-    "student_id": "63",
-    "name": "Kevin Owens",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
-  },
-  {
-    "student_id": "64",
-    "name": "Luna Perry",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "65",
-    "name": "Mason Quinn",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "66",
-    "name": "Nina Reed",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 98,
-      "geography": 90
-    },
-    "total": 470
-  },
-  {
-    "student_id": "67",
-    "name": "Oscar Ross",
-    "marks": {
-      "math": 75,
-      "science": 78,
-      "english": 81,
-      "history": 84,
-      "geography": 87
-    },
-    "total": 405
-  },
-  {
-    "student_id": "68",
-    "name": "Paula Scott",
-    "marks": {
-      "math": 88,
-      "science": 84,
-      "english": 80,
-      "history": 76,
-      "geography": 72
-    },
-    "total": 400
-  },
-  {
-    "student_id": "69",
-    "name": "Quincy Taylor",
-    "marks": {
-      "math": 60,
-      "science": 65,
-      "english": 70,
-      "history": 75,
-      "geography": 80
-    },
-    "total": 350
-  },
-  {
-    "student_id": "70",
-    "name": "Rachel Turner",
-    "marks": {
-      "math": 85,
-      "science": 88,
-      "english": 91,
-      "history": 84,
-      "geography": 87
-    },
-    "total": 435
-  },
-  {
-    "student_id": "71",
-    "name": "Samuel Walker",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "72",
-    "name": "Tina White",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 89,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "73",
-    "name": "Uma Young",
-    "marks": {
-      "math": 62,
-      "science": 68,
-      "english": 74,
-      "history": 80,
-      "geography": 86
-    },
-    "total": 370
-  },
-  {
-    "student_id": "74",
-    "name": "Victor Adams",
-    "marks": {
-      "math": 85,
-      "science": 83,
-      "english": 81,
-      "history": 79,
-      "geography": 77
-    },
-    "total": 405
-  },
-  {
-    "student_id": "75",
-    "name": "Wendy Brown",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
-  },
-  {
-    "student_id": "76",
-    "name": "Xavier Carter",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "77",
-    "name": "Yasmine Davis",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 89,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "78",
-    "name": "Zane Edwards",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "79",
-    "name": "Aaron Fisher",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
-  },
-  {
-    "student_id": "80",
-    "name": "Bella Gray",
-    "marks": {
-      "math": 62,
-      "science": 68,
-      "english": 74,
-      "history": 80,
-      "geography": 86
-    },
-    "total": 370
-  },
-  {
-    "student_id": "81",
-    "name": "Carlos Hayes",
-    "marks": {
-      "math": 85,
-      "science": 83,
-      "english": 81,
-      "history": 79,
-      "geography": 77
-    },
-    "total": 405
-  },
-  {
-    "student_id": "82",
-    "name": "Diana Jackson",
-    "marks": {
-      "math": 90,
-      "science": 88,
-      "english": 86,
-      "history": 84,
-      "geography": 82
-    },
-    "total": 430
-  },
-  {
-    "student_id": "83",
-    "name": "Elliott Kelly",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "84",
-    "name": "Faith Lewis",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 89,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "85",
-    "name": "George Morgan",
-    "marks": {
-      "math": 60,
-      "science": 65,
-      "english": 70,
-      "history": 75,
-      "geography": 80
-    },
-    "total": 350
-  },
-  {
-    "student_id": "86",
-    "name": "Holly Nelson",
-    "marks": {
-      "math": 88,
-      "science": 84,
-      "english": 80,
-      "history": 76,
-      "geography": 72
-    },
-    "total": 400
-  },
-  {
-    "student_id": "87",
-    "name": "Isaac Owens",
-    "marks": {
-      "math": 85,
-      "science": 88,
-      "english": 91,
-      "history": 84,
-      "geography": 87
-    },
-    "total": 435
-  },
-  {
-    "student_id": "88",
-    "name": "Julia Perry",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "89",
-    "name": "Kevin Quinn",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 98,
-      "geography": 90
-    },
-    "total": 470
-  },
-  {
-    "student_id": "90",
-    "name": "Luna Reed",
-    "marks": {
-      "math": 55,
-      "science": 65,
-      "english": 75,
-      "history": 85,
-      "geography": 95
-    },
-    "total": 375
-  },
-  {
-    "student_id": "91",
-    "name": "Mason Ross",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
-  },
-  {
-    "student_id": "92",
-    "name": "Nina Scott",
-    "marks": {
-      "math": 85,
-      "science": 83,
-      "english": 81,
-      "history": 79,
-      "geography": 77
-    },
-    "total": 405
-  },
-  {
-    "student_id": "93",
-    "name": "Oscar Turner",
-    "marks": {
-      "math": 62,
-      "science": 68,
-      "english": 74,
-      "history": 80,
-      "geography": 86
-    },
-    "total": 370
-  },
-  {
-    "student_id": "94",
-    "name": "Paula Walker",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "95",
-    "name": "Quincy White",
-    "marks": {
-      "math": 92,
-      "science": 94,
-      "english": 96,
-      "history": 89,
-      "geography": 88
-    },
-    "total": 459
-  },
-  {
-    "student_id": "96",
-    "name": "Rachel Young",
-    "marks": {
-      "math": 60,
-      "science": 65,
-      "english": 70,
-      "history": 75,
-      "geography": 80
-    },
-    "total": 350
-  },
-  {
-    "student_id": "97",
-    "name": "Samuel Adams",
-    "marks": {
-      "math": 85,
-      "science": 88,
-      "english": 91,
-      "history": 84,
-      "geography": 87
-    },
-    "total": 435
-  },
-  {
-    "student_id": "98",
-    "name": "Tina Brown",
-    "marks": {
-      "math": 78,
-      "science": 82,
-      "english": 86,
-      "history": 90,
-      "geography": 88
-    },
-    "total": 424
-  },
-  {
-    "student_id": "99",
-    "name": "Uma Carter",
-    "marks": {
-      "math": 85,
-      "science": 83,
-      "english": 81,
-      "history": 79,
-      "geography": 77
-    },
-    "total": 405
-  },
-  {
-    "student_id": "100",
-    "name": "Victor Davis",
-    "marks": {
-      "math": 88,
-      "science": 90,
-      "english": 92,
-      "history": 94,
-      "geography": 96
-    },
-    "total": 460
+    "book_id": "1",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+    "copies": 10
+  },
+  {
+    "book_id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "year": 1960,
+    "copies": 8
+  },
+  {
+    "book_id": "3",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "year": 1951,
+    "copies": 5
+  },
+  {
+    "book_id": "4",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "year": 1925,
+    "copies": 7
+  },
+  {
+    "book_id": "5",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "year": 1851,
+    "copies": 4
+  },
+  {
+    "book_id": "6",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "year": 1813,
+    "copies": 6
+  },
+  {
+    "book_id": "7",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "year": 1932,
+    "copies": 10
+  },
+  {
+    "book_id": "8",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Romance",
+    "year": 1847,
+    "copies": 3
+  },
+  {
+    "book_id": "9",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "year": 1847,
+    "copies": 5
+  },
+  {
+    "book_id": "10",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Political Satire",
+    "year": 1945,
+    "copies": 7
+  },
+  {
+    "book_id": "11",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "year": 1866,
+    "copies": 4
+  },
+  {
+    "book_id": "12",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical Fiction",
+    "year": 1880,
+    "copies": 3
+  },
+  {
+    "book_id": "13",
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction",
+    "year": 1862,
+    "copies": 5
+  },
+  {
+    "book_id": "14",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "year": 1869,
+    "copies": 6
+  },
+  {
+    "book_id": "15",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "year": -700,
+    "copies": 8
+  },
+  {
+    "book_id": "16",
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "year": -750,
+    "copies": 8
+  },
+  {
+    "book_id": "17",
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Epic Poetry",
+    "year": 1320,
+    "copies": 7
+  },
+  {
+    "book_id": "18",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1937,
+    "copies": 12
+  },
+  {
+    "book_id": "19",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1954,
+    "copies": 9
+  },
+  {
+    "book_id": "20",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1997,
+    "copies": 15
+  },
+  {
+    "book_id": "21",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1998,
+    "copies": 14
+  },
+  {
+    "book_id": "22",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1999,
+    "copies": 13
+  },
+  {
+    "book_id": "23",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 2000,
+    "copies": 16
+  },
+  {
+    "book_id": "24",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 2003,
+    "copies": 18
+  },
+  {
+    "book_id": "25",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 2005,
+    "copies": 15
+  },
+  {
+    "book_id": "26",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 2007,
+    "copies": 20
+  },
+  {
+    "book_id": "27",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "year": 2008,
+    "copies": 12
+  },
+  {
+    "book_id": "28",
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "year": 2009,
+    "copies": 10
+  },
+  {
+    "book_id": "29",
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "year": 2010,
+    "copies": 11
+  },
+  {
+    "book_id": "30",
+    "title": "Percy Jackson and the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "year": 2005,
+    "copies": 8
+  },
+  {
+    "book_id": "31",
+    "title": "Percy Jackson and the Olympians: The Sea of Monsters",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "year": 2006,
+    "copies": 7
+  },
+  {
+    "book_id": "32",
+    "title": "Percy Jackson and the Olympians: The Titan's Curse",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "year": 2007,
+    "copies": 6
+  },
+  {
+    "book_id": "33",
+    "title": "Percy Jackson and the Olympians: The Battle of the Labyrinth",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "year": 2008,
+    "copies": 9
+  },
+  {
+    "book_id": "34",
+    "title": "Percy Jackson and the Olympians: The Last Olympian",
+    "author": "Rick Riordan",
+    "genre": "Fantasy",
+    "year": 2009,
+    "copies": 10
+  },
+  {
+    "book_id": "35",
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "genre": "Dystopian",
+    "year": 2011,
+    "copies": 14
+  },
+  {
+    "book_id": "36",
+    "title": "Insurgent",
+    "author": "Veronica Roth",
+    "genre": "Dystopian",
+    "year": 2012,
+    "copies": 13
+  },
+  {
+    "book_id": "37",
+    "title": "Allegiant",
+    "author": "Veronica Roth",
+    "genre": "Dystopian",
+    "year": 2013,
+    "copies": 12
+  },
+  {
+    "book_id": "38",
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Romance",
+    "year": 2012,
+    "copies": 10
+  },
+  {
+    "book_id": "39",
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "genre": "Romance",
+    "year": 2005,
+    "copies": 9
+  },
+  {
+    "book_id": "40",
+    "title": "Paper Towns",
+    "author": "John Green",
+    "genre": "Romance",
+    "year": 2008,
+    "copies": 7
+  },
+  {
+    "book_id": "41",
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "year": 2009,
+    "copies": 8
+  },
+  {
+    "book_id": "42",
+    "title": "The Scorch Trials",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "year": 2010,
+    "copies": 7
+  },
+  {
+    "book_id": "43",
+    "title": "The Death Cure",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "year": 2011,
+    "copies": 6
+  },
+  {
+    "book_id": "44",
+    "title": "The Kill Order",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "year": 2012,
+    "copies": 5
+  },
+  {
+    "book_id": "45",
+    "title": "The Fever Code",
+    "author": "James Dashner",
+    "genre": "Dystopian",
+    "year": 2016,
+    "copies": 6
+  },
+  {
+    "book_id": "46",
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasy",
+    "year": 2005,
+    "copies": 10
+  },
+  {
+    "book_id": "47",
+    "title": "New Moon",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasy",
+    "year": 2006,
+    "copies": 9
+  },
+  {
+    "book_id": "48",
+    "title": "Eclipse",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasy",
+    "year": 2007,
+    "copies": 8
+  },
+  {
+    "book_id": "49",
+    "title": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasy",
+    "year": 2008,
+    "copies": 11
+  },
+  {
+    "book_id": "50",
+    "title": "The Host",
+    "author": "Stephenie Meyer",
+    "genre": "Science Fiction",
+    "year": 2008,
+    "copies": 7
+  },
+  {
+    "book_id": "51",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical",
+    "year": 1988,
+    "copies": 10
+  },
+  {
+    "book_id": "52",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic",
+    "year": 2006,
+    "copies": 8
+  },
+  {
+    "book_id": "53",
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian",
+    "year": 1993,
+    "copies": 7
+  },
+  {
+    "book_id": "54",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "year": 1953,
+    "copies": 9
+  },
+  {
+    "book_id": "55",
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "Science Fiction",
+    "year": 1969,
+    "copies": 5
+  },
+  {
+    "book_id": "56",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian",
+    "year": 1985,
+    "copies": 6
+  },
+  {
+    "book_id": "57",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Drama",
+    "year": 2003,
+    "copies": 8
+  },
+  {
+    "book_id": "58",
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "genre": "Drama",
+    "year": 2007,
+    "copies": 7
+  },
+  {
+    "book_id": "59",
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Mystery",
+    "year": 2001,
+    "copies": 9
+  },
+  {
+    "book_id": "60",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "year": 2005,
+    "copies": 10
+  },
+  {
+    "book_id": "61",
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Adventure",
+    "year": 2001,
+    "copies": 8
+  },
+  {
+    "book_id": "62",
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "genre": "Drama",
+    "year": 2013,
+    "copies": 7
+  },
+  {
+    "book_id": "63",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "year": 2012,
+    "copies": 9
+  },
+  {
+    "book_id": "64",
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Drama",
+    "year": 2014,
+    "copies": 6
+  },
+  {
+    "book_id": "65",
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Mystery",
+    "year": 2015,
+    "copies": 8
+  },
+  {
+    "book_id": "66",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2003,
+    "copies": 12
+  },
+  {
+    "book_id": "67",
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2000,
+    "copies": 10
+  },
+  {
+    "book_id": "68",
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2013,
+    "copies": 11
+  },
+  {
+    "book_id": "69",
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2001,
+    "copies": 8
+  },
+  {
+    "book_id": "70",
+    "title": "Digital Fortress",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 1998,
+    "copies": 7
+  },
+  {
+    "book_id": "71",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1977,
+    "copies": 9
+  },
+  {
+    "book_id": "72",
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1986,
+    "copies": 8
+  },
+  {
+    "book_id": "73",
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1987,
+    "copies": 7
+  },
+  {
+    "book_id": "74",
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1974,
+    "copies": 6
+  },
+  {
+    "book_id": "75",
+    "title": "The Stand",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1978,
+    "copies": 10
+  },
+  {
+    "book_id": "76",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1937,
+    "copies": 15
+  },
+  {
+    "book_id": "77",
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1954,
+    "copies": 12
+  },
+  {
+    "book_id": "78",
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1954,
+    "copies": 11
+  },
+  {
+    "book_id": "79",
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1955,
+    "copies": 13
+  },
+  {
+    "book_id": "80",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "year": 1996,
+    "copies": 10
+  },
+  {
+    "book_id": "81",
+    "title": "A Clash of Kings",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "year": 1998,
+    "copies": 9
+  },
+  {
+    "book_id": "82",
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "year": 2000,
+    "copies": 8
+  },
+  {
+    "book_id": "83",
+    "title": "A Feast for Crows",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "year": 2005,
+    "copies": 7
+  },
+  {
+    "book_id": "84",
+    "title": "A Dance with Dragons",
+    "author": "George R.R. Martin",
+    "genre": "Fantasy",
+    "year": 2011,
+    "copies": 6
+  },
+  {
+    "book_id": "85",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "year": 2007,
+    "copies": 9
+  },
+  {
+    "book_id": "86",
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "year": 2011,
+    "copies": 8
+  },
+  {
+    "book_id": "87",
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "year": 2006,
+    "copies": 10
+  },
+  {
+    "book_id": "88",
+    "title": "Mistborn: The Well of Ascension",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "year": 2007,
+    "copies": 9
+  },
+  {
+    "book_id": "89",
+    "title": "Mistborn: The Hero of Ages",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "year": 2008,
+    "copies": 8
+  },
+  {
+    "book_id": "90",
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "year": 2005,
+    "copies": 7
+  },
+  {
+    "book_id": "91",
+    "title": "Warbreaker",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "year": 2009,
+    "copies": 6
+  },
+  {
+    "book_id": "92",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "year": 1965,
+    "copies": 10
+  },
+  {
+    "book_id": "93",
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "year": 1951,
+    "copies": 9
+  },
+  {
+    "book_id": "94",
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "year": 1950,
+    "copies": 8
+  },
+  {
+    "book_id": "95",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "Science Fiction",
+    "year": 1984,
+    "copies": 7
+  },
+  {
+    "book_id": "96",
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "Science Fiction",
+    "year": 1992,
+    "copies": 6
+  },
+  {
+    "book_id": "97",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "genre": "Science Fiction",
+    "year": 1989,
+    "copies": 10
+  },
+  {
+    "book_id": "98",
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "year": 1985,
+    "copies": 9
+  },
+  {
+    "book_id": "99",
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "year": 1986,
+    "copies": 8
   }
 ]
